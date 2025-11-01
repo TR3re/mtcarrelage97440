@@ -186,7 +186,7 @@ header p {
 }
 
 details {
-    width: 30%; /* This should change, not max-width */
+    width: 30%;
     border: 1px solid #ccc;
     border-radius: 6px;
     padding: 5px;
@@ -206,7 +206,7 @@ details:not([open]):hover {
 } 
 
 details[open] {
-    width: 95%; /* Change width instead of max-width */
+    width: 95%;
     background: #00A8EC;
     border: 1px solid rebeccapurple;
     color: #ffffff;
@@ -516,7 +516,7 @@ summary {
     }
 }
 
-/* Extra small mobile  */
+/* Extra petit mobile  */
 @media screen and (max-width: 480px) {
     h1 {
         font-size: 1em;
@@ -589,7 +589,7 @@ summary {
     }
 }
 
-/* Paysage ajustements pour mobile*/
+/* Paysage ajustements pour mobile */
 @media screen and (max-width: 768px) and (orientation: landscape) {
 
     .slider,
