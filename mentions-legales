@@ -14,27 +14,57 @@
         <div class="title-buttons">
             <h1>M.T. Carrelage - Mentions légales</h1>
             <div class="button-container">
-                <button class="accueil" onclick="location.href='index.html'">Accueil</button>
+                <button class="contact" onclick="location.href='index.html'">Accueil</button>
                 <button class="services" onclick="location.href='services.html'">Nos services</button>
                 <button class="galerie" onclick="location.href='galerie.html'">Galerie</button>
-                <button class="contact" onclick="location.href='contact.html'">Contact</button>
             </div>
         </div>
     </div>
 
     <br>
 
-    <section class="section">
+    <main class="section">
         <h2>Mentions légales</h2>
-        <p><strong>Éditeur du site</strong><br><span style="color:#666;font-size:0.95em;">Dénomination : [RAISON SOCIALE]<br>Forme juridique : [FORME JURIDIQUE]<br>Capital social : [MONTANT] €<br>Siège social : [ADRESSE], [CODE POSTAL] [VILLE], La Réunion<br>Téléphone : 0692 54 86 60<br>E-mail : terrentroy.mickael@gmail.com <br>SIRET : [14 CHIFFRES]<br>RCS : [VILLE] [NUMÉRO] (ou Répertoire des Métiers n° [NUMÉRO])<br>TVA intracommunautaire : [FR + CLÉ + SIREN] (ou « TVA non applicable, art. 293 B du CGI »)<br>Directeur de la publication : [PRÉNOM NOM]</span></p>
 
-        <p><strong>Hébergeur</strong><br><span style="color:#666;font-size:0.95em;">Nom : [NOM DE L’HÉBERGEUR]<br>Adresse : [ADRESSE COMPLÈTE]<br>Téléphone : [TÉLÉPHONE]</span></p>
+        <h3>1. Éditeur du site</h3>
+        <p>
+            Le site est édité par <strong>MICKAEL JEAN TERRENTROY</strong>, exerçant sous le nom commercial
+            <strong>« MT CARRELAGE »</strong>.
+        </p>
+        <p><strong>Forme juridique :</strong> Entrepreneur individuel (entreprise individuelle)</p>
+        <p><strong>Adresse du siège :</strong> 132 Ruelle Léger, 97440 Saint-André, La Réunion</p>
+        <p><strong>SIREN :</strong> 818 042 954</p>
+        <p><strong>SIRET :</strong> 818 042 954 00037</p>
+        <p><strong>Code APE/NAF :</strong> 43.33Z – Travaux de revêtement des sols et des murs</p>
+        <p><strong>Date de création :</strong> 27/01/2016</p>
+        <p><strong>Immatriculation :</strong> RNE (Registre National des Entreprises) tenu par l’INPI, immatriculée le 25/04/2023</p>
+        <p><strong>Téléphone :</strong> <a href="tel:0692548660">0692 54 86 60</a></p>
+        <p><strong>Email : terrentroy.mickael@gmail.com</p>
 
-        <p><strong>Assurance professionnelle</strong><br><span style="color:#666;font-size:0.95em;">Assureur : [NOM DE L’ASSUREUR]<br>Adresse : [ADRESSE]<br>N° de contrat : [N° CONTRAT]<br>Couverture géographique : [ZONE COUVERTE]</span></p>
-    </section>
+        <h3>2. TVA</h3>
+        <p>
+            Aucun numéro de TVA intracommunautaire valide n’est communiqué pour le moment.
+            Si l’entreprise relève de la franchise en base de TVA (notamment sous le régime
+            micro-entrepreneur), la mention applicable est : « TVA non applicable, art. 293 B du CGI ».
+            Ce point doit être confirmé par l’entreprise selon son régime fiscal réel : il dépend du
+            régime de TVA choisi et non uniquement du statut juridique.
+        </p>
+
+        <h3>3. Directeur de la publication</h3>
+        <p><strong>Directeur de la publication :</strong> Mickael Jean TERRENTROY</p>
+
+        <h3>4. Hébergement</h3>
+        <p><strong>Hébergeur :</strong> GitHub Pages</p>
+
+        <h3>5. Assurance professionnelle</h3>
+        <p><strong>Assurance décennale :</strong> [ASSURANCE DÉCENNALE]</p>
+
+        <h3>6. Médiation de la consommation</h3>
+        <p><strong>Médiateur de la consommation :</strong> [MÉDIATEUR DE LA CONSOMMATION]</p>
+    </main>
 
     <footer>
-        <p>M.T. Carrelage 97440 — <a href="mentions-legales.html">Mentions légales</a></p>
+        <p>M.T. Carrelage 97440</p>
     </footer>
 </body>
 
