@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mentions légales - M.T. Carrelage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="header-box">
+        <img class="logo" src="pictures/MTCarrelage.jpeg" alt="MTCarrelage">
+        <div class="title-buttons">
+            <h1>M.T. Carrelage - Mentions légales</h1>
+            <div class="button-container">
+                <button class="accueil" onclick="location.href='index.html'">Accueil</button>
+                <button class="services" onclick="location.href='services.html'">Nos services</button>
+                <button class="galerie" onclick="location.href='galerie.html'">Galerie</button>
+                <button class="contact" onclick="location.href='contact.html'">Contact</button>
+            </div>
+        </div>
+    </div>
+
+    <br>
+
+    <section class="section">
+        <h2>Mentions légales</h2>
+        <p><strong>Éditeur du site</strong><br><span style="color:#666;font-size:0.95em;">Dénomination : [RAISON SOCIALE]<br>Forme juridique : [FORME JURIDIQUE]<br>Capital social : [MONTANT] €<br>Siège social : [ADRESSE], [CODE POSTAL] [VILLE], La Réunion<br>Téléphone : 0692 54 86 60<br>E-mail : terrentroy.mickael@gmail.com <br>SIRET : [14 CHIFFRES]<br>RCS : [VILLE] [NUMÉRO] (ou Répertoire des Métiers n° [NUMÉRO])<br>TVA intracommunautaire : [FR + CLÉ + SIREN] (ou « TVA non applicable, art. 293 B du CGI »)<br>Directeur de la publication : [PRÉNOM NOM]</span></p>
+
+        <p><strong>Hébergeur</strong><br><span style="color:#666;font-size:0.95em;">Nom : [NOM DE L’HÉBERGEUR]<br>Adresse : [ADRESSE COMPLÈTE]<br>Téléphone : [TÉLÉPHONE]</span></p>
+
+        <p><strong>Assurance professionnelle</strong><br><span style="color:#666;font-size:0.95em;">Assureur : [NOM DE L’ASSUREUR]<br>Adresse : [ADRESSE]<br>N° de contrat : [N° CONTRAT]<br>Couverture géographique : [ZONE COUVERTE]</span></p>
+    </section>
+
+    <footer>
+        <p>M.T. Carrelage 97440 — <a href="mentions-legales.html">Mentions légales</a></p>
+    </footer>
+</body>
+
+</html>
